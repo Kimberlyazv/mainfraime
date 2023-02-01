@@ -1,5 +1,5 @@
 # mainfraime
-Programa feito par Sprint do projeto Capflix
+Programa feito para Sprint do projeto Capflix
 
 Este programa tem como objetivo registrar um usuário. Ele deve receber e validar os dados do usuário, e registrar em arquivo indexado. Este é um programa online, que recebe as seguintes informações do usuário:
 •	Email                        PIC  X(100)
